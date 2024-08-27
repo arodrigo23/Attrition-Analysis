@@ -30,4 +30,4 @@ Goal: Use Python and Tableau to analyze employee attrition at a company and form
 ---
 
 ## Project Notes
-* The dataset for this project was generated in Python using pandas, numpy, and faker libraries. (see Jupyter notebook in this repository for details).
+* The dataset for this project was generated in Python using pandas, numpy, and faker libraries (see Jupyter notebook in this repository for details).
