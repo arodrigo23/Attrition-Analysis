@@ -16,7 +16,7 @@ Goal: Use Python and Tableau to analyze employee attrition at a company and form
 * There is a noticeable gender pay gap across different job titles, with male employees generally earning more than female employees.
 * Employees who had overtime are more likely to leave voluntarily within their first year. The exception to this was in 2020, which saw a relatively high number of employees doing overtime but a low number of employees leaving if they were hired in 2019 or 2020.
 * The 35-45 age group has the highest number of voluntary terminations, indicating potential dissatisfaction or other factors among mid-career employees.
-* There was a marked decrease in hiring during 2020, presumably due to the COVID-19 virus. The year 2020 also saw the highest number of involuntary terminations.
+* There was a marked decrease in hiring during 2020, presumably due to the COVID-19 virus. This year also saw the highest number of involuntary terminations.
 * The Operations, Sales, and IT departments had the highest number of voluntary terminations every year from 2015 to 2024.
 * The total number of hires and terminations (both voluntary and involuntary) decreased in the last year.
 
