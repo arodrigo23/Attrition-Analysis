@@ -1,5 +1,5 @@
 # Employee Attrition Analysis
-Goal: Use Python and Tableau to analyze employee attrition at a company and formulate recommendations to increase employee retention. The interactive dashboard pictured below can be found [here](https://public.tableau.com/views/EmployeeAttrition_17247825466550/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Goal: Use SQL, Python, and Tableau to analyze employee attrition at a company and formulate recommendations to increase employee retention. The interactive dashboard pictured below can be found [here](https://public.tableau.com/views/EmployeeAttrition_17247825466550/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ![dashboard-screenshot](https://github.com/user-attachments/assets/57c435df-eac8-43b7-88ee-47a8ac067ec8)
 
