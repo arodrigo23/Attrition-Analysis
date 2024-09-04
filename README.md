@@ -26,8 +26,3 @@ Goal: Use Python and Tableau to analyze employee attrition at a company and form
 * Consider revising overtime policies or offering additional support to employees working overtime in their first year at the company in order to improve retention.
 * Investigate why the 35-45 age group is experiencing the highest rate of voluntary terminations. This could involve conducting surveys or focus groups to identify specific issues and develop strategies to retain experienced employees.
 * Focus on understanding the reasons behind the voluntary termination rates for the Operations, Sales, and IT departments, and research targeted retention strategies.
-
----
-
-## Project Notes
-* The dataset for this project was generated in Python using pandas, numpy, and faker libraries (see Jupyter notebook in this repository for details).
